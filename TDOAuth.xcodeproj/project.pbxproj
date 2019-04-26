@@ -9,7 +9,6 @@
 /* Begin PBXBuildFile section */
 		63433C091AD856CA00077584 /* OMGHTTPURLRQ.framework in CopyFiles */ = {isa = PBXBuildFile; fileRef = 63EF926D1AD8329C00554141 /* OMGHTTPURLRQ.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		63433C0A1AD856CD00077584 /* TDOAuth.framework in CopyFiles */ = {isa = PBXBuildFile; fileRef = 63EF92671AD8316400554141 /* TDOAuth.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
-		63779DAF1AD833DE008E3AD6 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 63779DAE1AD833DE008E3AD6 /* Info.plist */; };
 		63779DB01AD852ED008E3AD6 /* TDOAuth.h in Headers */ = {isa = PBXBuildFile; fileRef = C43B88621AC064C9005FAD49 /* TDOAuth.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		63779DB11AD852F0008E3AD6 /* TDOAuth.h in Headers */ = {isa = PBXBuildFile; fileRef = C43B88621AC064C9005FAD49 /* TDOAuth.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		63779DB21AD8548F008E3AD6 /* TDOAuth.m in Sources */ = {isa = PBXBuildFile; fileRef = C43B88631AC064C9005FAD49 /* TDOAuth.m */; };
@@ -243,7 +242,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				63779DAF1AD833DE008E3AD6 /* Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
